@@ -12,8 +12,8 @@ Semestre: 2023.1;
 
 # Equipe: 
 
-Aluno: Harold Calixto de Albuquerque - 499735;
+Aluno: Harold Calixto de Albuquerque;
 
-Aluno: Alexandre Gomes Camelo - 504315;
+Aluno: Alexandre Gomes Camelo;
 
-Aluno: Joaquim Walisson Portela de Sousa - 472152;
+Aluno: Joaquim Walisson Portela de Sousa;
