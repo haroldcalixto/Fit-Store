@@ -172,3 +172,11 @@ button:hover {
     margin-right: .75rem;
     margin-left: .75rem;
 }
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
